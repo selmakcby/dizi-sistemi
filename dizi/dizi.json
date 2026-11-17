@@ -7,6 +7,7 @@
     "taslak": false,
     "gorsel": "seedream_v5_pro"
   },
+  "uretim": { "yontem": "short-drama", "not": "short-drama = Higgsfield'ın /short-drama komutu; dogrudan = klip klip, komutsuz" },
   "fiyat": { "kredi_saniye_480p": 3, "kredi_saniye_720p": 7, "kredi_gorsel": 2.5 },
   "butce": { "varsayilan_kalite": "480p", "bolum_tavani_kredi": 200, "klip_yeniden_deneme": 1 },
   "stil_cumlesi": "Dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white, people and set in one painted style lit only by this place's named sources:",

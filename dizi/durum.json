@@ -2,8 +2,8 @@
   "guncelleme": "2026-11-17",
   "bolumler": [
     { "no": 1, "script": "dizi/bolumler/E01.txt", "script_onayi": "Selma 17 Kas: 'birinci bölümü bitir'", "uretim": "480p bitti", "cikti": "uretim/E01/cikti/bolum-01-480p.mp4", "kredi": 180, "dakika": 6, "selma_hukmu": "bekliyor" },
-    { "no": 2, "script": "dizi/bolumler/E02.txt", "script_onayi": null, "uretim": null },
-    { "no": 3, "script": "dizi/bolumler/E03.txt", "script_onayi": null, "uretim": null },
-    { "no": 4, "script": "dizi/bolumler/E04.txt", "script_onayi": null, "uretim": null }
+    { "no": 2, "script": "dizi/bolumler/E02.txt", "script_onayi": null, "uretim_onayi": null, "uretim": null },
+    { "no": 3, "script": "dizi/bolumler/E03.txt", "script_onayi": null, "uretim_onayi": null, "uretim": null },
+    { "no": 4, "script": "dizi/bolumler/E04.txt", "script_onayi": null, "uretim_onayi": null, "uretim": null }
   ]
 }

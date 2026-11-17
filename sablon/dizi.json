@@ -2,6 +2,7 @@
   "ad": "",
   "bicim": { "oran": "9:16", "bolum_saniye": 60, "klip_saniye": 12, "dil": "English" },
   "model": { "video": "seedance_2_5", "mod": "omni_reference", "bitrate_mode": "high", "generate_audio": true, "taslak": false, "gorsel": "seedream_v5_pro" },
+  "uretim": { "yontem": "short-drama" },
   "fiyat": { "kredi_saniye_480p": 3, "kredi_saniye_720p": 7, "kredi_gorsel": 2.5 },
   "butce": { "varsayilan_kalite": "480p", "bolum_tavani_kredi": 200, "klip_yeniden_deneme": 1 },
   "stil_cumlesi": "",
