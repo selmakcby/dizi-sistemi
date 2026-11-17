@@ -1,0 +1,33 @@
+{
+  "ad": "The Wrong Crate",
+  "ad_durumu": "çalışma adı; Selma karar verecek",
+  "bicim": { "oran": "9:16", "bolum_saniye": 60, "klip_saniye": 12, "dil": "English" },
+  "model": {
+    "video": "seedance_2_5", "mod": "omni_reference", "bitrate_mode": "high", "generate_audio": true,
+    "taslak": false,
+    "gorsel": "seedream_v5_pro"
+  },
+  "fiyat": { "kredi_saniye_480p": 3, "kredi_saniye_720p": 7, "kredi_gorsel": 2.5 },
+  "butce": { "varsayilan_kalite": "480p", "bolum_tavani_kredi": 200, "klip_yeniden_deneme": 1 },
+  "stil_cumlesi": "Dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white, people and set in one painted style lit only by this place's named sources:",
+  "gorsel_stil_acilisi": "Surreal dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white.",
+  "mekanlar": {
+    "teahouse": {
+      "ad": "Tea House", "is": "4abaa4aa-c1cb-4c43-91c8-4f54fd4c4a14",
+      "isik_cumlesi": "the two amber hanging lamps over the counter, their warm light falling down onto the counter top and the faces from above, the front window side of the room in deep teal shadow; strong contrast; thin ribbons of steam rising from the two brass urns.",
+      "harita": "the counter at the far side of the room under the two lamps, the shelves of tea glasses and the two brass urns behind it; the front door and the arched front window in the dark teal side of the room; a small round corner table at the right side of the room"
+    }
+  },
+  "karakterler": {
+    "kerem":  { "ad": "Kerem",   "is": "5b7aba8d-b4ee-47f7-a12b-bd83e8265839", "ses": "a man's voice of about 28, a light tenor, quick and wary" },
+    "hasan":  { "ad": "Hasan",   "is": "61d5e58a-90a0-4bec-88f8-c15f149165b1", "ses": "a man's voice of about 62, a gravelly bass, dry and unhurried" },
+    "vera":   { "ad": "Vera",    "is": "14ca83ad-4451-44ee-b27a-2624df7a16ac", "ses": "a woman's voice of about 34, a low smooth alto, calm and unhurried", "not": "geniş kenarlı siyah şapka ve uzun siyah palto her çekimde üstünde (E03 sonuna kadar)" },
+    "aksoy":  { "ad": "Aksoy",   "is": "4c096f17-6e49-40e8-9c4d-45b6da060aa8", "ses": "a man's voice of about 58, a calm baritone, measured and clear" },
+    "oldman": { "ad": "Old Man", "is": "f414d103-2bfa-45bb-88e0-124758d14afc", "ses": null },
+    "kara":   { "ad": "Mr. Kara", "is": null, "ses": "a man's voice of about 55, a deep heavy baritone, slow and smooth", "not": "referans görseli henüz yok; E02'den önce üretilecek" }
+  },
+  "nesneler": {
+    "crate": { "ad": "Crate", "is": "e4c2a400-26e0-4171-a070-f11953238b37", "tarif": "the wooden Crate", "not": "isteğin sonuna: 'The wooden Crate stays the same plain pine plank crate with rope handles in every shot; it never becomes a suitcase or a chest.'" },
+    "case":  { "ad": "Case",  "is": "47c7f89d-fae1-4ebd-97b4-85dde1efdcf9", "tarif": "the black leather Case" }
+  }
+}

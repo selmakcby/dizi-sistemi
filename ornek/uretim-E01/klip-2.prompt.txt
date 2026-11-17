@@ -1,0 +1,33 @@
+STRICT RULE: Absolutely no music, only diegetic sounds.
+Dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white, people and set in one painted style lit only by this place's named sources: the two amber hanging lamps over the counter, their warm light falling down onto the counter top and the faces from above, the front window side of the room in deep teal shadow; strong contrast; thin ribbons of steam rising from the two brass urns.
+Image reference 1 (location Tea House): the Tea House 100% as in the reference.
+Image reference 2 (character Kerem): Kerem, face, hair, body and clothes 100% as in the reference.
+Image reference 3 (character Hasan): Hasan, face, hair, body and clothes 100% as in the reference.
+Image reference 4 (character Vera): Vera, face, hair, hat, body and clothes 100% as in the reference.
+Image reference 5 (prop Crate): the wooden Crate 100% as in the reference.
+Image reference 6 (prop Case): the black leather Case 100% as in the reference.
+Continuity: Kerem is clean and unchanged from the reference, with no stain, mark or damage; Hasan is clean and unchanged from the reference, with no stain, mark or damage; Vera is clean and unchanged from the reference, with no stain, mark or damage.
+In frame only: Kerem, Hasan and Vera. The counter at the far side of the room under the two lamps, the shelves of tea glasses and the two brass urns behind it; the front door in the dark teal side of the room. Hasan behind the counter; Kerem at the counter's near side; the open wooden Crate full of banknotes on the counter between them, its lid standing upright; Vera comes in through the front door and ends at the counter beside Kerem, an arm's length from him. Eyelines never at the camera.
+Opening: Hasan standing behind the counter, both hands on the upright lid of the open Crate full of banknotes; Kerem standing at the counter's near side, facing the Crate; the front door closed.
+Vera speaks aloud 2 times between 5.7s and 11.4s and never again; silent before 5.7s and from 11.4s to the end.
+Kerem and Hasan never speak in this clip.
+Vera is out to find the Crate that went to the wrong counter; once she sees it open she takes charge of the room, with willpower.
+Hasan is out to hide what his hand holds; once the door opens he puts it away, with grit.
+Kerem is out to understand who she is; once she stands beside him he holds his place, with resilience.
+Pace: tight and pressing; every shot opens in motion, a beat only where a line lands.
+S1 0.0-1.8s · medium, from behind the counter looking toward the front door, eye level, handheld · the front door swings open hard and strikes the wall with a bang at 0.4s; Vera stands in the doorway against the dark street, the closed black leather Case in her right hand, a thin line of teal light along her hat brim and coat; Kerem, in the near foreground with his back to the lens, turns his head toward the door.
+S2 1.8-3.3s · close on hands, from Hasan's side of the counter, slightly high, static · Hasan's right hand slides off the edge of the open Crate as a closed fist and goes down into his brown vest pocket; his left hand stays on the upright lid.
+S3 3.3-5.5s · medium, the camera ahead of her at chest height, travelling back toward the counter · Vera walks straight toward the lens in long even strides, the black leather Case swinging once at her side, the brim of her black hat throwing a band of shadow across her eyes, warm lamp light on her mouth and chin; only the open door and the dark street behind her.
+S4 5.5-7.4s · close, cut at the collarbones, three-quarter from Hasan's side of the counter, slightly low, slow push-in · Vera stops at the counter, her eyes resting on the open Crate from under the hat brim; her voice begins at 5.7s and ends at 7.0s; her look passing beside the lens, low; only the open door and the dark street behind her.
+S5 7.4-9.8s · medium, from above the counter, high, slow push-in · Vera's two gloved hands set the black leather Case down on the counter beside the open Crate, it lands at 7.9s with a soft thud, snap its two latches and lift its lid upright; two neat rows of small round dark red tea tins fill the Case.
+S6 9.8-12.0s · close, cut at the collarbones, from the front, eye level, slow push-in · Vera lifts her chin toward Hasan, the shadow of the hat brim sliding up off one eye; her voice begins at 10.0s and ends at 11.4s; only the open door and the dark street behind her.
+All speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.
+S4 (5.7-7.0s) Vera to Hasan, a woman's voice of about 34, a low smooth alto, calm and unhurried, quiet and even: "You opened it."
+S6 (10.0-11.4s) Vera to Hasan, soft and cold: "Your tea, Hasan."
+No speech in S1, S2, S3, S5.
+Restrictions:
+- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.
+- No added sound effects: no whoosh, no boom, no impact hit, no riser.
+- Only diegetic sound: the characters' voices and the natural sounds of this place.
+- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.
+- The wooden Crate stays the same plain pine plank crate with rope handles in every shot; it never becomes a suitcase or a chest.

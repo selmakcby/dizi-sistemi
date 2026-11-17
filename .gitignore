@@ -1,0 +1,13 @@
+# Üretilen dosyalar repoya girmez
+uretim/*/cikti/
+referans/
+kayit/
+*.mp4
+*.wav
+.DS_Store
+
+# Higgsfield'ın script skill'i onların dosyasıdır; repoda dağıtılmaz. README'de nereden alınacağı yazar.
+.claude/skills/short-drama-studio-script/SKILL.md
+
+# Yerel ayarlar
+.claude/settings.local.json

@@ -1,0 +1,35 @@
+STRICT RULE: Absolutely no music, only diegetic sounds.
+Dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white, people and set in one painted style lit only by this place's named sources: the two amber hanging lamps over the counter, their warm light falling down onto the counter top and the faces from above, the front window side of the room in deep teal shadow; strong contrast; thin ribbons of steam rising from the two brass urns.
+Image reference 1 (location Tea House): the Tea House 100% as in the reference.
+Image reference 2 (character Kerem): Kerem, face, hair, body and clothes 100% as in the reference.
+Image reference 3 (character Hasan): Hasan, face, hair, body and clothes 100% as in the reference.
+Image reference 4 (character Aksoy): Aksoy, face, hair, body and clothes 100% as in the reference.
+Image reference 5 (character Old Man): Old Man, face, hair, body and clothes 100% as in the reference.
+Image reference 6 (prop Crate): the wooden Crate 100% as in the reference.
+Continuity: Kerem is clean and unchanged from the reference, with no stain, mark or damage; Hasan is clean and unchanged from the reference, with no stain, mark or damage; Aksoy is clean and unchanged from the reference, with no stain, mark or damage; Old Man is clean and unchanged from the reference, with no stain, mark or damage.
+In frame only: Kerem, Hasan, Aksoy and Old Man. The counter at the far side of the room under the two lamps, the shelves of tea glasses and the two brass urns behind it; a small round corner table with a backgammon board at the right side of the room. Hasan behind the counter; Kerem at the counter's near side, in the foreground; Aksoy and Old Man seated at the corner table, farther back. Eyelines never at the camera.
+Opening: Kerem mid-stride at the counter's near side, the closed wooden Crate in both arms, a motorbike key in his right fist; Hasan standing behind the counter, an arm's length across it; Aksoy and Old Man seated at the corner table over the backgammon board.
+Kerem speaks aloud 2 times between 0.8s and 7.0s and never again; silent before 0.8s and from 7.0s to the end.
+Hasan speaks aloud 2 times between 3.0s and 11.7s and never again; silent before 3.0s and from 11.7s to the end.
+Aksoy and Old Man never speak in this clip.
+Kerem is out to hand over the Crate and leave; once Hasan refuses it he presses for an answer, with persistence.
+Hasan is out to find what was put on his counter; once the lid is up he faces it, with grit.
+Pace: tight and pressing; every shot opens in motion, a beat only where a line lands.
+S1 0.0-1.8s · medium, from the front door looking toward the counter, eye level, handheld · Kerem, whole figure in the foreground with his back three-quarter to the lens, slams the closed wooden Crate down onto the counter with both arms, it lands at 0.5s with a loud wooden bang, and drops a motorbike key on the counter beside it; his voice begins at 0.8s; Hasan, behind the counter farther back, his eyes on the Crate.
+S2 1.8-2.9s · medium, from beside the counter looking toward the corner table, eye level, static · Aksoy and Old Man, seated one behind the other at the corner table, lift their heads from the backgammon board toward the counter, Old Man's hand stopping over the dice; only the dark arched window behind them.
+S3 2.9-5.4s · close, cut at the collarbones, three-quarter from Kerem's side of the counter, slightly low, handheld · Hasan lays both palms flat on the closed lid of the Crate at the bottom edge of the frame; his voice begins at 3.0s and ends at 5.2s; his look passing right of the lens, level; only the shelves of tea glasses behind him.
+S4 5.4-7.2s · close, cut at the collarbones, three-quarter from behind the counter, slightly high, handheld · Kerem leans in over the Crate, both hands on the counter edge; his voice begins at 5.6s and ends at 7.0s; his look passing left of the lens, level; only the dark arched window behind him.
+S5 7.2-9.6s · medium, from above the counter, high, slow push-in · Hasan lifts the hinged lid of the Crate up and back with both hands in one steady pull, it stands upright by 8.2s; neat rows of thick stacks of banknotes fill the Crate to the brim; Kerem's hands on the counter edge at the bottom of the frame, the motorbike key lying beside the Crate.
+S6 9.6-12.0s · close, cut at the collarbones, from the front, eye level, slow push-in · Hasan's eyes go down to the banknotes at the bottom edge of the frame and stay there, his hands on the upright lid; his voice begins at 9.8s and ends at 11.7s; only the shelves of tea glasses behind him.
+All speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.
+S1 (0.8-1.8s) Kerem to Hasan, a man's voice of about 28, a light tenor, quick and wary, loud and brisk: "Delivery for Hasan."
+S3 (3.0-5.2s) Hasan to Kerem, a man's voice of about 62, a gravelly bass, dry and unhurried, low and certain: "This is not my tea, Kerem."
+S4 (5.6-7.0s) Kerem to Hasan, sharp and puzzled: "Then whose is it?"
+S6 (9.8-11.7s) Hasan to Kerem, hushed and stunned: "I ordered tea. Only tea."
+No speech in S2, S5.
+Restrictions:
+- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.
+- No added sound effects: no whoosh, no boom, no impact hit, no riser.
+- Only diegetic sound: the characters' voices and the natural sounds of this place.
+- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.
+- The wooden Crate stays the same plain pine plank crate with rope handles in every shot; it never becomes a suitcase or a chest.

@@ -1,0 +1,34 @@
+STRICT RULE: Absolutely no music, only diegetic sounds.
+Dreamlike hand-painted 2D animation: smooth oil-paint gradients, long soft shadows, elongated shapes, a dusk palette of burnt orange, teal and bone white, people and set in one painted style lit only by this place's named sources: the two amber hanging lamps over the counter, their warm light falling down onto the counter top and the faces from above, the front window side of the room in deep teal shadow; strong contrast; thin ribbons of steam rising from the two brass urns.
+Image reference 1 (location Tea House): the Tea House 100% as in the reference.
+Image reference 2 (character Kerem): Kerem, face, hair, body and clothes 100% as in the reference.
+Image reference 3 (character Hasan): Hasan, face, hair, body and clothes 100% as in the reference.
+Image reference 4 (character Vera): Vera, face, hair, hat, body and clothes 100% as in the reference.
+Image reference 5 (prop Crate): the wooden Crate 100% as in the reference.
+Image reference 6 (prop Case): the black leather Case 100% as in the reference.
+Continuity: Kerem is clean and unchanged from the reference, with no stain, mark or damage; Hasan is clean and unchanged from the reference, with no stain, mark or damage; Vera is clean and unchanged from the reference, with no stain, mark or damage.
+In frame only: Kerem, Hasan and Vera. The counter at the far side of the room under the two lamps, the shelves of tea glasses and the two brass urns behind it. Hasan behind the counter; Kerem and Vera side by side at the counter's near side, an arm's length apart; on the counter between them the open wooden Crate full of banknotes with its lid upright, the open black leather Case full of tea tins beside it, and a motorbike key lying by the Crate. Eyelines never at the camera.
+Opening: Vera standing at the counter, her gloved right hand lifting toward the open Crate; Kerem standing beside her, an arm's length away, both hands on the counter edge; Hasan standing behind the counter, his right hand flat on his vest pocket.
+Vera speaks aloud 2 times between 2.4s and 8.6s and never again; silent before 2.4s and from 8.6s to the end.
+Kerem speaks aloud 1 time between 4.8s and 6.2s and never again; silent before 4.8s and from 6.2s to the end.
+Hasan never speaks in this clip.
+Vera is out to find who took one stack; once the count comes up short she puts it on Kerem, with willpower.
+Kerem is out to clear himself; once she takes his key he reaches to stop her, with tenacity.
+Pace: tight and pressing; every shot opens in motion, a beat only where a line lands.
+S1 0.0-2.2s · medium, from above the counter, high, slow push-in · Vera's gloved index finger runs once along the rows of banknote stacks in the open Crate from one side to the other and stops on an empty gap at the end of the last row.
+S2 2.2-4.6s · close, cut at the collarbones, three-quarter from Hasan's side of the counter, slightly low, handheld · Vera lifts her eyes from the Crate toward Kerem at the edge of the frame; her voice begins at 2.4s and ends at 4.4s; her look passing left of the lens, level; only the dark front door behind her.
+S3 4.6-6.4s · close, cut at the collarbones, three-quarter from behind the counter, slightly high, handheld · Kerem pulls both hands off the counter and opens them in front of his chest; his voice begins at 4.8s and ends at 6.2s; his look passing right of the lens, level; only the dark arched window behind him.
+S4 6.4-8.8s · close, cut at the collarbones, three-quarter from Hasan's side of the counter, slightly low, slow push-in · Vera turns her head a little toward Kerem, the hat brim's shadow across her eyes; her voice begins at 6.6s and ends at 8.6s; her look passing left of the lens, level; only the dark front door behind her.
+S5 8.8-10.4s · close on hands, from above the counter, high, static · Vera's gloved right hand closes over the motorbike key lying on the counter beside the Crate and lifts it away.
+S6 10.4-12.0s · close, cut at the collarbones, three-quarter from behind the counter, slightly high, handheld · Kerem's right hand shoots out after the key and stops in the air above the counter, his eyes on her gloved fist at the edge of the frame; only the dark arched window behind him.
+All speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.
+S2 (2.4-4.4s) Vera to Kerem, a woman's voice of about 34, a low smooth alto, calm and unhurried, flat and exact: "Twenty. There were twenty-one."
+S3 (4.8-6.2s) Kerem to Vera, a man's voice of about 28, a light tenor, quick and wary, loud and stung: "I never touched it!"
+S4 (6.6-8.6s) Vera to Kerem, quiet and final: "You carried it. You pay."
+No speech in S1, S5, S6.
+Restrictions:
+- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.
+- No added sound effects: no whoosh, no boom, no impact hit, no riser.
+- Only diegetic sound: the characters' voices and the natural sounds of this place.
+- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.
+- The wooden Crate stays the same plain pine plank crate with rope handles in every shot; it never becomes a suitcase or a chest.
