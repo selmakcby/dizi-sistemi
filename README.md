@@ -1,3 +1,5 @@
+![Dizi Sistemi: çay evinde para dolu sandık, kurye, çay ustası ve kapıda şapkalı kadın](gorsel/kapak.jpg)
+
 # Dizi Sistemi
 
 Kendi script'inle, yüzünü göstermeden, bölüm bölüm dikey mikro drama dizisi üreten bir Claude Code projesi.
