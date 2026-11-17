@@ -10,6 +10,27 @@ Kaynak: Claude Code resmî belgeleri (code.claude.com/docs), 17 Kas 2026'da okun
 | Başsız mod (`claude -p "/siradaki-bolum"`) | Komutu çalıştıran makine | Var | Oturum açıksa belgeler "otomatik kullanılabilir" diyor; `-p` için açıkça doğrulanmıyor | cron/launchd ile çalıştırmak belgelenmiş bir kalıp değil |
 | GitHub Actions (`anthropics/claude-code-action`) | GitHub | Repo | Belgede yok | Zamanlama herkese açık repoda 60 gün hareketsizlikte kapanır |
 
+## Üç yol, yan yana
+
+| | Kendi bilgisayarın | Bulut görevi (`/schedule`) | Sunucu (VPS) |
+|---|---|---|---|
+| Bilgisayar kapalıyken çalışır | Hayır | Evet | Evet |
+| Ek ödeme | Yok | Yok (abonelikten) | Sunucu ücreti + API ya da abonelik |
+| Yerel dosyalar | Var | Yok; repo her koşuda klonlanır | Sunucunun diski |
+| Higgsfield bağlantısı | Hazır | Hazır (bağlayıcılar dahil) | Ayrıca kurulur ve bir kez yetkilendirilir |
+| Bir şey ters giderse | Önünde görürsün | Koşu kaydına bakarsın | Sunucuya bağlanıp bakarsın |
+| En sık | Saatte bir (masaüstü görevi) | Saatte bir | Sen belirlersin |
+
+Videoda gösterilen yol **kendi bilgisayarın**. Öbür ikisi aynı repoyla çalışır: bulut görevi repoyu GitHub'dan klonlar, sunucuda repoyu indirip aynı komutu çalıştırırsın.
+
+## Zamanlanmış görevin metni (üç yolda da aynı)
+
+```
+/siradaki-bolum
+```
+
+Komut kendi kilitlerini taşır: onaylanmamış script'i üretmez, bölüm tavanını aşmaz, başarılı klibi yeniden göndermez. Yani zamanlayıcı her gün çalışsa bile yalnız senin onayladığın bölüm çıkar; onaylı bölüm kalmadıysa tek satırla durur.
+
 ## Bu proje için sonuçlar
 - **Bulut görevi** Higgsfield bağlayıcısını kullanabilir ama yerel klasörü göremez. Projenin bir GitHub reposunda olması ve çıktının repoya ya da Higgsfield hesabına yazılması gerekir.
 - **Kendi bilgisayarında** en az sürtünmeli yol masaüstü zamanlanmış görevdir: yerel dosyalar ve bağlayıcı ikisi de var; bedeli, bilgisayarın açık kalması.
